@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Earth Hologenome Initiative logo](../images/logo_draft.png)
+![Earth Hologenome Initiative logo](https://github.com/earthhologenome/.github/blob/621ee2824c50d82e6dd2334445aeedeb019a6d94/images/logo_draft.png)

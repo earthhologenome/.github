@@ -4,6 +4,8 @@
 
 The Earth Hologenome Initiative is a global effort established to advance and streamline hologenomic research on wild organisms across the world. It embraces a variety of projects with different research designs and objectives focused on standardised and openly accessible methods for collecting and preserving samples, generating data, and managing data. Through the formation of a consortium and the development of a transparent database, our aim is to encourage collaboration and improve the efficiency of data generation and analysis.
 
+> For detailed information about the EHI visit www.earthhologenome.org
+
 ## Contents of this Organisational Repository
 
 ### EHI bioinformatic pipeline

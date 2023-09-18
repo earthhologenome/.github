@@ -26,3 +26,10 @@ https://github.com/earthhologenome/EHI_bioinformatics/tree/mjolnir
 Source data for rendering the website showing the information about the EHI laboratory procedures displayed in www.earthhologenome.org/laboratory. The content is writen in RMarkdown and rendered into a website using RBookdown. 
 
 https://github.com/earthhologenome/EHI_laboratory
+
+### Research repositories
+
+#### Hologenomic data search
+Code employed to conduct the programatic hologenomic data search for the reference article of the Earth Hologenome Initiative. 
+
+https://github.com/earthhologenome/hologenomic_data_search
